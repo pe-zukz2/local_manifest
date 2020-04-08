@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<project path="device/zuk/msm8996-common" name="pe-zukz2/device_zuk_msm8996-common" revision="ten-plus" remote="github"/>
+	<project path="device/zuk/z2_plus" name="pe-zukz2/device_zuk_z2_plus" revision="ten-plus" remote="github"/>
+	<project path="device/zuk/z2_row" name="pe-zukz2/device_zuk_z2_row" revision="ten-plus" remote="github"/>
+	<project path="vendor/zuk" name="pe-zukz2/vendor_zuk" revision="ten" remote="github"/>
+	<project path="kernel/zuk/msm8996" name="pe-zukz2/kernel_zuk_msm8996" revision="ten" remote="github"/>
+
+</manifest>
